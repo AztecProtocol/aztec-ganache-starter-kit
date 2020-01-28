@@ -9,7 +9,7 @@
     "@aztec/dev-utils": "0.12.5",
     "@aztec/protocol": "0.12.1",
     "@aztec/secp256k1": "1.0.2",
-    "aztec.js": "0.15.1",
+    "aztec.js": "0.16.10",
     "global": "^4.4.0",
     "openzeppelin-solidity": "^2.2.0",
     "web3": "^1.0.0-beta.51"
