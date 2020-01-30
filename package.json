@@ -7,7 +7,7 @@
   "dependencies": {
     "@aztec/bn128": "0.2.8",
     "@aztec/dev-utils": "2.3.0",
-    "@aztec/protocol": "0.12.1",
+    "@aztec/protocol": "1.2.0",
     "@aztec/secp256k1": "1.2.0",
     "aztec.js": "0.15.1",
     "global": "^4.4.0",
