@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@aztec/bn128": "0.2.8",
+    "@aztec/bn128": "1.1.0",
     "@aztec/dev-utils": "2.1.0",
     "@aztec/protocol": "0.12.1",
     "@aztec/secp256k1": "1.1.0",
