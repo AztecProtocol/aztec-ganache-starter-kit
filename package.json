@@ -23,7 +23,7 @@
     "@babel/plugin-transform-runtime": "^7.4.4",
     "@babel/preset-env": "^7.4.4",
     "@babel/runtime": "^7.4.2",
-    "dotenv": "^8.2.0",
+    "dotenv": "^9.0.2",
     "ganache-cli": "^6.4.3",
     "ganache-core": "^2.5.4-beta.2",
     "solhint": "^2.0.0",
