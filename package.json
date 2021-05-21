@@ -26,7 +26,7 @@
     "dotenv": "^8.2.0",
     "ganache-cli": "^6.4.3",
     "ganache-core": "^2.5.4-beta.2",
-    "solhint": "^2.0.0",
+    "solhint": "^3.3.5",
     "solium": "^1.2.3",
     "truffle": "^5.0.44"
   },
