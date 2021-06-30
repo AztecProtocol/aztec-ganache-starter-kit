@@ -11,7 +11,7 @@
     "@aztec/secp256k1": "1.2.0",
     "aztec.js": "0.18.0",
     "global": "^4.4.0",
-    "openzeppelin-solidity": "^2.2.0",
+    "openzeppelin-solidity": "^4.2.0",
     "web3": "^1.0.0-beta.51"
   },
   "devDependencies": {
